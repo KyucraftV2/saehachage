@@ -1,2 +1,1 @@
-
-$$(l’algorithmique^2)$$
+l’algorithmique$$^2$$
