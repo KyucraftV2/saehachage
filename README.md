@@ -1,1 +1,2 @@
 
+$$(l’algorithmique^2)$$
